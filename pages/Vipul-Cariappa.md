@@ -1,6 +1,6 @@
 # Vipul Cariappa
 
-![Image](media/vipul-cartoon.jpeg)
+![Image](/media/vipul-cartoon.jpeg)
 
 ## Bio
 
