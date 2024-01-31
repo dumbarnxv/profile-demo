@@ -1,7 +1,5 @@
 # Vipul Cariappa
 
-<!-- ![Image](/assets/vipul-cartoon.jpeg) -->
-
 ## Bio
 
 I am from Bangalore. I like to program. My favourite programming languages are Python and Rust.
