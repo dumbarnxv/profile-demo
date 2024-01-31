@@ -1,2 +1,2 @@
 #bio 
-hi this is mandira from bangalore 
+hi this is mandira shetty from bangalore , 
