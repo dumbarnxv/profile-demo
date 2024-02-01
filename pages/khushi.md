@@ -1,2 +1,2 @@
 # bio 
-This is Khushi Thakur from MSRUAS
+This is ARNAV SINHA from MSRUAS
